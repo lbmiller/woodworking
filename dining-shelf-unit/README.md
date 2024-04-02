@@ -1,5 +1,7 @@
 # Dining Shelving Unit
 
+![Image](https://media.restorationhardware.com/is/image/rhis/prod31210050_E615642127_TQ_CC_RHR?$PDP-IS-2000$)
+
 ![Image of French Contemporary Shelving from Restoration Hardware](/assets/images/prod31210050_E615642127_TQ_CC_RHR.png)
 Modeled after ["French Contemporary Shelving" at Restoration Hardware](
 https://rh.com/us/en/catalog/product/product.jsp?productId=prod31210050&swatch=1859012&layout=vertical)
