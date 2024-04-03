@@ -6,7 +6,11 @@ Open shelf unit with four shelves and a top.
 * 30"W x 14"D x 60"H
 * Shelf(4): 30"W x 14"Dx 1.5"H
 * Legs and shelf borders are 1.5" x 1.5"
-* Shelves are 3/4" plywood surrounded by hardwood border
+* Shelves are 3/4" plywood panel surrounded by hardwood border
+
+Each shelf border piece is milled from 8/4 stock to get 1.5" x 1.5" lengths. The end of each border piece receives a
+1/2" wide, 1" tall tenon, inserted into a mortise centered in the leg's width. Each tenon is lapped top/bottom to meet
+the neighbor tenon. Each border piece has a 1/2" wide, 3/4" tall rabbet to support the plywood panel on four sides.
 
 ## Joinery
 Shelf rails attach to legs with 0.5" lapped, haunched mortise & tenon
