@@ -13,6 +13,6 @@ Shelf rails attach to legs with 0.5" lapped, haunched mortise & tenon
 ![Illustration of joinery showing the shelves meeting the legs](/assets/images/dsu-joinery.png)
 
 ## Reference
-![Image of French Contemporary Shelving from Restoration Hardware](https://media.restorationhardware.com/is/image/rhis/prod31210050_E615642127_TQ_CC_RHR?$PDP-IS-2000$ =250x250)
+<img src="https://media.restorationhardware.com/is/image/rhis/prod31210050_E615642127_TQ_CC_RHR?$PDP-IS-2000$" width=250>
 Modeled after ["French Contemporary Shelving" at Restoration Hardware](
 https://rh.com/us/en/catalog/product/product.jsp?productId=prod31210050&swatch=1859012&layout=vertical)
